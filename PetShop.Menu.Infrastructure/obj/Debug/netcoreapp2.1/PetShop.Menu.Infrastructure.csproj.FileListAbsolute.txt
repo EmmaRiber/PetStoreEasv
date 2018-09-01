@@ -1,0 +1,14 @@
+C:\Users\Jens Karlskov\source\repos\PetStoreEasv\PetShop.Menu.Infrastructure\bin\Debug\netcoreapp2.1\PetShop.Menu.Infrastructure.deps.json
+C:\Users\Jens Karlskov\source\repos\PetStoreEasv\PetShop.Menu.Infrastructure\bin\Debug\netcoreapp2.1\PetShop.Menu.Infrastructure.dll
+C:\Users\Jens Karlskov\source\repos\PetStoreEasv\PetShop.Menu.Infrastructure\bin\Debug\netcoreapp2.1\PetShop.Menu.Infrastructure.pdb
+C:\Users\Jens Karlskov\source\repos\PetStoreEasv\PetShop.Menu.Infrastructure\bin\Debug\netcoreapp2.1\PetShop.Menu.Core.dll
+C:\Users\Jens Karlskov\source\repos\PetStoreEasv\PetShop.Menu.Infrastructure\bin\Debug\netcoreapp2.1\PetShop.Menu.Core.Entity.dll
+C:\Users\Jens Karlskov\source\repos\PetStoreEasv\PetShop.Menu.Infrastructure\bin\Debug\netcoreapp2.1\PetShop.Menu.Core.Entity.pdb
+C:\Users\Jens Karlskov\source\repos\PetStoreEasv\PetShop.Menu.Infrastructure\bin\Debug\netcoreapp2.1\PetShop.Menu.Core.pdb
+C:\Users\Jens Karlskov\source\repos\PetStoreEasv\PetShop.Menu.Infrastructure\obj\Debug\netcoreapp2.1\PetShop.Menu.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Jens Karlskov\source\repos\PetStoreEasv\PetShop.Menu.Infrastructure\obj\Debug\netcoreapp2.1\PetShop.Menu.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Jens Karlskov\source\repos\PetStoreEasv\PetShop.Menu.Infrastructure\obj\Debug\netcoreapp2.1\PetShop.Menu.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Jens Karlskov\source\repos\PetStoreEasv\PetShop.Menu.Infrastructure\obj\Debug\netcoreapp2.1\PetShop.Menu.Infrastructure.AssemblyInfo.cs
+C:\Users\Jens Karlskov\source\repos\PetStoreEasv\PetShop.Menu.Infrastructure\obj\Debug\netcoreapp2.1\PetShop.Menu.Infrastructure.csproj.CopyComplete
+C:\Users\Jens Karlskov\source\repos\PetStoreEasv\PetShop.Menu.Infrastructure\obj\Debug\netcoreapp2.1\PetShop.Menu.Infrastructure.dll
+C:\Users\Jens Karlskov\source\repos\PetStoreEasv\PetShop.Menu.Infrastructure\obj\Debug\netcoreapp2.1\PetShop.Menu.Infrastructure.pdb

@@ -1,0 +1,12 @@
+C:\Users\Jens Karlskov\source\repos\PetStoreEasv\PetShop.Menu.Core\bin\Debug\netstandard2.0\PetShop.Menu.Core.deps.json
+C:\Users\Jens Karlskov\source\repos\PetStoreEasv\PetShop.Menu.Core\bin\Debug\netstandard2.0\PetShop.Menu.Core.dll
+C:\Users\Jens Karlskov\source\repos\PetStoreEasv\PetShop.Menu.Core\bin\Debug\netstandard2.0\PetShop.Menu.Core.pdb
+C:\Users\Jens Karlskov\source\repos\PetStoreEasv\PetShop.Menu.Core\bin\Debug\netstandard2.0\PetShop.Menu.Core.Entity.dll
+C:\Users\Jens Karlskov\source\repos\PetStoreEasv\PetShop.Menu.Core\bin\Debug\netstandard2.0\PetShop.Menu.Core.Entity.pdb
+C:\Users\Jens Karlskov\source\repos\PetStoreEasv\PetShop.Menu.Core\obj\Debug\netstandard2.0\PetShop.Menu.Core.csprojAssemblyReference.cache
+C:\Users\Jens Karlskov\source\repos\PetStoreEasv\PetShop.Menu.Core\obj\Debug\netstandard2.0\PetShop.Menu.Core.csproj.CoreCompileInputs.cache
+C:\Users\Jens Karlskov\source\repos\PetStoreEasv\PetShop.Menu.Core\obj\Debug\netstandard2.0\PetShop.Menu.Core.AssemblyInfoInputs.cache
+C:\Users\Jens Karlskov\source\repos\PetStoreEasv\PetShop.Menu.Core\obj\Debug\netstandard2.0\PetShop.Menu.Core.AssemblyInfo.cs
+C:\Users\Jens Karlskov\source\repos\PetStoreEasv\PetShop.Menu.Core\obj\Debug\netstandard2.0\PetShop.Menu.Core.csproj.CopyComplete
+C:\Users\Jens Karlskov\source\repos\PetStoreEasv\PetShop.Menu.Core\obj\Debug\netstandard2.0\PetShop.Menu.Core.dll
+C:\Users\Jens Karlskov\source\repos\PetStoreEasv\PetShop.Menu.Core\obj\Debug\netstandard2.0\PetShop.Menu.Core.pdb
