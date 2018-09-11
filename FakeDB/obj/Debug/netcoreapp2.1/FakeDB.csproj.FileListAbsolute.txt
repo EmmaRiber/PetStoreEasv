@@ -1,9 +1,0 @@
-C:\Users\Jens Karlskov\source\repos\PetStoreEasv\FakeDB\bin\Debug\netcoreapp2.1\FakeDB.deps.json
-C:\Users\Jens Karlskov\source\repos\PetStoreEasv\FakeDB\bin\Debug\netcoreapp2.1\FakeDB.dll
-C:\Users\Jens Karlskov\source\repos\PetStoreEasv\FakeDB\bin\Debug\netcoreapp2.1\FakeDB.pdb
-C:\Users\Jens Karlskov\source\repos\PetStoreEasv\FakeDB\obj\Debug\netcoreapp2.1\FakeDB.csprojAssemblyReference.cache
-C:\Users\Jens Karlskov\source\repos\PetStoreEasv\FakeDB\obj\Debug\netcoreapp2.1\FakeDB.csproj.CoreCompileInputs.cache
-C:\Users\Jens Karlskov\source\repos\PetStoreEasv\FakeDB\obj\Debug\netcoreapp2.1\FakeDB.AssemblyInfoInputs.cache
-C:\Users\Jens Karlskov\source\repos\PetStoreEasv\FakeDB\obj\Debug\netcoreapp2.1\FakeDB.AssemblyInfo.cs
-C:\Users\Jens Karlskov\source\repos\PetStoreEasv\FakeDB\obj\Debug\netcoreapp2.1\FakeDB.dll
-C:\Users\Jens Karlskov\source\repos\PetStoreEasv\FakeDB\obj\Debug\netcoreapp2.1\FakeDB.pdb
